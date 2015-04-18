@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRepeater", "MyRepeater\MyRepeater.csproj", "{4F4B8F9B-9646-4A22-9DB4-DE4D634FFF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{43688EEA-58F8-4214-82E9-AC73264F459A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4B8F9B-9646-4A22-9DB4-DE4D634FFF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4B8F9B-9646-4A22-9DB4-DE4D634FFF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4B8F9B-9646-4A22-9DB4-DE4D634FFF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4B8F9B-9646-4A22-9DB4-DE4D634FFF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43688EEA-58F8-4214-82E9-AC73264F459A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43688EEA-58F8-4214-82E9-AC73264F459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43688EEA-58F8-4214-82E9-AC73264F459A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43688EEA-58F8-4214-82E9-AC73264F459A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

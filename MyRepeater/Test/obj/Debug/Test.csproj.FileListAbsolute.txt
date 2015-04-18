@@ -1,0 +1,15 @@
+D:\my-repeater\MyRepeater\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\my-repeater\MyRepeater\Test\bin\Test.dll
+D:\my-repeater\MyRepeater\Test\bin\Test.pdb
+D:\my-repeater\MyRepeater\Test\bin\MyRepeater.dll
+D:\my-repeater\MyRepeater\Test\bin\MyRepeater.pdb
+D:\my-repeater\MyRepeater\Test\obj\Debug\Test.dll
+D:\my-repeater\MyRepeater\Test\obj\Debug\Test.pdb
+D:\my-repeater\trunk\MyRepeater\Test\bin\Test.dll.config
+D:\my-repeater\trunk\MyRepeater\Test\bin\Test.dll
+D:\my-repeater\trunk\MyRepeater\Test\bin\Test.pdb
+D:\my-repeater\trunk\MyRepeater\Test\bin\MyRepeater.dll
+D:\my-repeater\trunk\MyRepeater\Test\bin\MyRepeater.pdb
+D:\my-repeater\trunk\MyRepeater\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\my-repeater\trunk\MyRepeater\Test\obj\Debug\Test.dll
+D:\my-repeater\trunk\MyRepeater\Test\obj\Debug\Test.pdb
